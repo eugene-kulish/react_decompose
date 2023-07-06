@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_decompose=this.webpackJsonpreact_decompose||[]).push([[0],[,,,,,,,,function(n,t,c){},function(n,t,c){},,function(n,t,c){},function(n,t,c){},function(n,t,c){"use strict";c.r(t);var e=c(3),o=c.n(e),s=(c(1),c(8),c(9),c(0)),i=function(){},u=(c(11),function(){}),r=(c(12),function(){}),a=function(){return Object(s.jsxs)("main",{className:"app",children:[Object(s.jsx)(i,{}),Object(s.jsx)(u,{}),Object(s.jsx)(r,{})]})};o.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))}],[[13,1,2]]]);
+//# sourceMappingURL=main.91972466.chunk.js.map
